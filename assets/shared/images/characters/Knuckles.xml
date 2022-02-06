@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Unbenannt-1.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Knuckles Dance0000" x="0" y="0" width="475" height="576" frameX="0" frameY="0" frameWidth="476" frameHeight="645"/>
+	<SubTexture name="Knuckles Dance0001" x="0" y="0" width="475" height="576" frameX="0" frameY="0" frameWidth="476" frameHeight="645"/>
+	<SubTexture name="Knuckles Dance0002" x="475" y="0" width="439" height="573" frameX="-17" frameY="-3" frameWidth="476" frameHeight="645"/>
+	<SubTexture name="Knuckles Dance0003" x="475" y="0" width="439" height="573" frameX="-17" frameY="-3" frameWidth="476" frameHeight="645"/>
+	<SubTexture name="Knuckles Dance0004" x="914" y="0" width="441" height="570" frameX="-14" frameY="-8" frameWidth="476" frameHeight="645"/>
+	<SubTexture name="Knuckles Dance0005" x="914" y="0" width="441" height="570" frameX="-14" frameY="-8" frameWidth="476" frameHeight="645"/>
+	<SubTexture name="Knuckles Dance0006" x="1355" y="0" width="444" height="579" frameX="-32" frameY="-11" frameWidth="476" frameHeight="645"/>
+	<SubTexture name="Knuckles Dance0007" x="1355" y="0" width="444" height="579" frameX="-32" frameY="-11" frameWidth="476" frameHeight="645"/>
+	<SubTexture name="Knuckles Dance0008" x="0" y="579" width="396" height="632" frameX="-42" frameY="-13" frameWidth="476" frameHeight="645"/>
+	<SubTexture name="Knuckles Dance0009" x="0" y="579" width="396" height="632" frameX="-42" frameY="-13" frameWidth="476" frameHeight="645"/>
+	<SubTexture name="Knuckles Dance0010" x="396" y="579" width="397" height="560" frameX="-42" frameY="-16" frameWidth="476" frameHeight="645"/>
+	<SubTexture name="Knuckles Dance0011" x="396" y="579" width="397" height="560" frameX="-42" frameY="-16" frameWidth="476" frameHeight="645"/>
+	<SubTexture name="Knuckles Dance0012" x="793" y="579" width="427" height="577" frameX="-35" frameY="-2" frameWidth="476" frameHeight="645"/>
+	<SubTexture name="Knuckles Dance0013" x="793" y="579" width="427" height="577" frameX="-35" frameY="-2" frameWidth="476" frameHeight="645"/>
+	<SubTexture name="Knuckles Dance0014" x="793" y="579" width="427" height="577" frameX="-35" frameY="-2" frameWidth="476" frameHeight="645"/>
+</TextureAtlas>
